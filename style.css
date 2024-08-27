@@ -1,0 +1,30 @@
+.{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    height: 80px;
+    background-color: rgb(255, 145, 0);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo h3{
+color: rgb(255, 255, 255);
+font-size: 2rem;
+}
+
+a{
+    text-decoration: name;
+    margin: auto 5px;
+    color:rgb(21, 60, 233);
+}
+
+main{
+    height: 80vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
